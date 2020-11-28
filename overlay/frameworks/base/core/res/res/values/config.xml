@@ -382,4 +382,8 @@
     <!-- Height of the status bar -->
     <dimen name="status_bar_height_portrait">138px</dimen>
     <dimen name="status_bar_height_landscape">138px</dimen>
+
+    <!-- Whether device has dash charging support -->
+    <bool name="config_hasDashCharger">true</bool>
+
 </resources>
