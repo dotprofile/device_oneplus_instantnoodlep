@@ -18,6 +18,9 @@
      for different hardware or product builds. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Whether device supports panoramic SoundTuner -->
+    <bool name="config_device_supports_soundtuner">true</bool>
+
     <bool name="config_device_supports_switch_refreshrate">true</bool>
     <integer name="BaseRefresh">60</integer>
     <integer name="PeakRefresh">120</integer>
