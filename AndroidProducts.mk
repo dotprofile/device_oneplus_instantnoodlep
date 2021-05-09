@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp_instantnoodlep.mk
+    $(LOCAL_DIR)/evolution_instantnoodlep.mk
 
 COMMON_LUNCH_CHOICES := \
-    aicp_instantnoodlep-user \
-    aicp_instantnoodlep-userdebug \
-    aicp_instantnoodlep-eng
+    evolution_instantnoodlep-user \
+    evolution_instantnoodlep-userdebug \
+    evolution_instantnoodlep-eng
